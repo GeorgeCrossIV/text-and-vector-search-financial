@@ -1,0 +1,1115 @@
+transaction_id,transaction_date,amount,transaction_type,category
+1,10/3/2023,900,debit,Transfer
+2,10/3/2023,900,credit,Transfer
+3,10/3/2023,900,debit,Transfer
+4,10/3/2023,39.71,debit,Shopping
+5,10/2/2023,4364.06,debit,Mortgage & Rent
+6,10/2/2023,30,debit,Transfer
+7,10/2/2023,19.12,debit,Fast Food
+8,10/2/2023,116.59,debit,Shopping
+9,10/2/2023,42.39,debit,Shopping
+10,10/1/2023,4164.06,credit,Loan Payment
+11,10/1/2023,200,credit,Loan Principal
+12,9/29/2023,0.02,credit,Interest Income
+13,9/29/2023,0.08,credit,Interest Income
+14,9/29/2023,609.45,debit,Credit Card Payment
+15,9/29/2023,1.89,debit,Transfer
+16,9/29/2023,858.03,credit,Income
+17,9/29/2023,5707.08,credit,Income
+18,9/29/2023,0.01,credit,Interest Income
+19,9/29/2023,1007.93,credit,Paycheck
+20,9/29/2023,0.01,credit,Interest Income
+21,9/29/2023,5,debit,Bank Fee
+22,9/28/2023,4758.22,credit,Paycheck
+23,9/28/2023,100,credit,Transfer
+24,9/28/2023,250,debit,Transfer
+25,9/28/2023,250,credit,Transfer
+26,9/28/2023,926.38,debit,Credit Card Payment
+27,9/28/2023,100,debit,Transfer
+28,9/28/2023,250,debit,Transfer
+29,9/28/2023,500,credit,Transfer
+30,9/27/2023,250,credit,Transfer
+31,9/27/2023,165,credit,Transfer
+32,9/27/2023,245,debit,Transfer
+33,9/27/2023,165,debit,Transfer
+34,9/27/2023,250,debit,Transfer
+35,9/27/2023,165,debit,Transfer
+36,9/26/2023,200,debit,Transfer
+37,9/26/2023,200,credit,Transfer
+38,9/26/2023,185,debit,Transfer
+39,9/26/2023,94,debit,Transfer
+40,9/26/2023,0.29,credit,Interest Income
+41,9/26/2023,14.99,debit,Transfer
+42,9/26/2023,30.99,debit,Transfer
+43,9/26/2023,2303.84,debit,Credit Card Payment
+44,9/25/2023,215.8,credit,Income
+45,9/25/2023,1800,credit,Transfer
+46,9/25/2023,200,debit,Credit Card Payment
+47,9/25/2023,296.39,debit,Credit Card Payment
+48,9/25/2023,180,debit,Transfer
+49,9/25/2023,250,debit,Transfer
+50,9/25/2023,250,debit,Transfer
+51,9/25/2023,10.76,debit,Credit Card Payment
+52,9/25/2023,94,debit,Transfer
+53,9/25/2023,180,debit,Transfer
+54,9/22/2023,1.89,debit,Transfer
+55,9/22/2023,250,debit,Transfer
+56,9/22/2023,100,debit,Transfer
+57,9/22/2023,45,credit,Income
+58,9/22/2023,2239.2,credit,Paycheck
+59,9/22/2023,24.99,debit,Electronics & Software
+60,9/22/2023,14.99,debit,Restaurants
+61,9/22/2023,24,credit,Income
+62,9/22/2023,24,credit,Income
+63,9/22/2023,45,credit,Income
+64,9/22/2023,0.32,credit,Income
+65,9/22/2023,100,credit,Transfer
+66,9/22/2023,100,debit,Transfer
+67,9/21/2023,127.68,credit,Income
+68,9/21/2023,75,debit,Transfer
+69,9/21/2023,100,debit,Transfer
+70,9/21/2023,75,credit,Transfer
+71,9/21/2023,25,credit,Transfer
+72,9/21/2023,999.42,debit,Credit Card Payment
+73,9/21/2023,45,debit,Travel
+74,9/21/2023,45,debit,Travel
+75,9/21/2023,215.8,debit,Travel
+76,9/21/2023,21.17,debit,Shopping
+77,9/21/2023,24,debit,Travel
+78,9/21/2023,24,debit,Travel
+79,9/20/2023,100,debit,Transfer
+80,9/20/2023,100,credit,Transfer
+81,9/20/2023,436,debit,Credit Card Payment
+82,9/20/2023,2895,debit,Gifts & Donations
+83,9/20/2023,100,debit,Transfer
+84,9/19/2023,240,credit,Transfer
+85,9/19/2023,245,debit,Transfer
+86,9/19/2023,500,credit,Transfer
+87,9/19/2023,240,debit,Transfer
+88,9/19/2023,12.24,debit,Fast Food
+89,9/19/2023,500,debit,Transfer
+90,9/19/2023,26.99,debit,Transfer
+91,9/19/2023,26.99,debit,Transfer
+92,9/19/2023,26.99,debit,Transfer
+93,9/18/2023,48,debit,Transfer
+94,9/18/2023,29.99,debit,Electronics & Software
+95,9/18/2023,45,debit,Transfer
+96,9/18/2023,14.99,debit,Transfer
+97,9/15/2023,3780,debit,Credit Card Payment
+98,9/15/2023,5707.07,credit,Income
+99,9/15/2023,1000,credit,Transfer
+100,9/15/2023,1.89,debit,Transfer
+101,9/15/2023,200,debit,Credit Card Payment
+102,9/15/2023,200,debit,Credit Card Payment
+103,9/14/2023,11.81,debit,Fast Food
+104,9/14/2023,4300.44,credit,Paycheck
+105,9/14/2023,472.15,debit,Credit Card Payment
+106,9/13/2023,853.16,debit,Credit Card Payment
+107,9/12/2023,271.31,debit,Utilities
+108,9/12/2023,308.21,debit,Credit Card Payment
+109,9/12/2023,1549.66,debit,Credit Card Payment
+110,9/12/2023,21.19,debit,Shopping
+111,9/11/2023,220,debit,Home Services
+112,9/11/2023,14.99,debit,Transfer
+113,9/11/2023,10.06,debit,Groceries
+114,9/11/2023,45.07,debit,Shopping
+115,9/11/2023,513.87,debit,Credit Card Payment
+116,9/8/2023,100,debit,Transfer
+117,9/8/2023,1.89,debit,Transfer
+118,9/8/2023,100,credit,Transfer
+119,9/8/2023,100,debit,Transfer
+120,9/8/2023,50.88,debit,Shopping
+121,9/7/2023,1000,debit,Transfer
+122,9/7/2023,100,credit,Transfer
+123,9/7/2023,105,debit,Transfer
+124,9/7/2023,1000,credit,Transfer
+125,9/7/2023,100,debit,Transfer
+126,9/7/2023,35.17,debit,Transfer for Cash Spending
+127,9/7/2023,13.12,debit,Groceries
+128,9/7/2023,2408.86,credit,Paycheck
+129,9/7/2023,60.9,debit,Shopping
+130,9/6/2023,35.17,credit,Transfer
+131,9/6/2023,606.34,debit,Mobile Phone
+132,9/6/2023,7786.96,debit,Student Loan
+133,9/6/2023,250,debit,Transfer
+134,9/6/2023,563.9,debit,Credit Card Payment
+135,9/5/2023,0.99,debit,Electronics & Software
+136,9/5/2023,17.97,debit,Credit Card Payment
+137,9/5/2023,1800,credit,Transfer
+138,9/5/2023,14.99,debit,Transfer
+139,9/5/2023,303.28,debit,Credit Card Payment
+140,9/5/2023,516.03,debit,Credit Card Payment
+141,9/5/2023,100,debit,Transfer
+142,9/5/2023,50,credit,Transfer
+143,9/5/2023,50,debit,Transfer
+144,9/5/2023,50,debit,Transfer
+145,9/1/2023,100,debit,Transfer
+146,9/1/2023,2.38,debit,Public Transportation
+147,9/1/2023,1216.96,debit,Credit Card Payment
+148,9/1/2023,4364.06,debit,Mortgage & Rent
+149,9/1/2023,1.89,debit,Transfer
+150,9/1/2023,4164.06,credit,Loan Payment
+151,9/1/2023,200,credit,Loan Principal
+152,8/31/2023,0.08,credit,Interest Income
+153,8/31/2023,325,debit,Transfer
+154,8/31/2023,0.02,credit,Interest Income
+155,8/31/2023,0.02,credit,Interest Income
+156,8/31/2023,4529.32,credit,Paycheck
+157,8/31/2023,5707.08,credit,Income
+158,8/31/2023,5783.09,credit,Income
+159,8/31/2023,14.98,debit,Credit Card Payment
+160,8/31/2023,1966.57,debit,Credit Card Payment
+161,8/31/2023,0.01,credit,Interest Income
+162,8/31/2023,0.01,credit,Interest Income
+163,8/31/2023,5,debit,Bank Fee
+164,8/31/2023,0.01,credit,Interest Income
+165,8/30/2023,500,credit,Transfer
+166,8/29/2023,290,debit,Transfer
+167,8/28/2023,225,debit,Transfer
+168,8/28/2023,100,debit,Transfer
+169,8/28/2023,100,credit,Transfer
+170,8/28/2023,690.09,credit,Transfer
+171,8/28/2023,400,debit,Transfer
+172,8/28/2023,39.95,debit,Education
+173,8/25/2023,1.89,debit,Transfer
+174,8/24/2023,65.76,debit,Credit Card Payment
+175,8/24/2023,571.01,debit,Credit Card Payment
+176,8/23/2023,1000,debit,Transfer
+177,8/23/2023,0.18,credit,Interest Income
+178,8/23/2023,4.99,debit,Restaurants
+179,8/23/2023,325,credit,Transfer
+180,8/23/2023,1000,credit,Transfer
+181,8/23/2023,1653.16,debit,Credit Card Payment
+182,8/23/2023,325,credit,Transfer
+183,8/23/2023,325,debit,Transfer
+184,8/22/2023,2239.19,credit,Paycheck
+185,8/22/2023,24.99,debit,Electronics & Software
+186,8/22/2023,624.9,debit,Credit Card Payment
+187,8/22/2023,67.2,credit,Transfer
+188,8/22/2023,76.91,credit,Transfer
+189,8/21/2023,25,debit,Entertainment
+190,8/21/2023,40,debit,Entertainment
+191,8/21/2023,5,debit,Entertainment
+192,8/21/2023,26.24,debit,Entertainment
+193,8/21/2023,120,debit,Transfer
+194,8/21/2023,120,credit,Transfer
+195,8/21/2023,120,debit,Transfer
+196,8/21/2023,250,debit,Transfer
+197,8/18/2023,140,debit,Transfer
+198,8/18/2023,872.34,credit,Paycheck
+199,8/18/2023,140,debit,Transfer
+200,8/18/2023,140,credit,Transfer
+201,8/18/2023,1.89,debit,Transfer
+202,8/18/2023,250,debit,Transfer
+203,8/18/2023,2183.63,debit,Credit Card Payment
+204,8/18/2023,964.36,debit,Credit Card Payment
+205,8/17/2023,39.99,debit,Credit Card Payment
+206,8/17/2023,4987.11,credit,Paycheck
+207,8/17/2023,250,debit,Transfer
+208,8/17/2023,184.33,debit,Shopping
+209,8/16/2023,1208.07,debit,Credit Card Payment
+210,8/16/2023,450,debit,Credit Card Payment
+211,8/16/2023,200,debit,Credit Card Payment
+212,8/16/2023,200,debit,Credit Card Payment
+213,8/15/2023,14.99,debit,Transfer
+214,8/15/2023,225,debit,Transfer
+215,8/15/2023,14.99,debit,Transfer
+216,8/15/2023,14.99,debit,Transfer
+217,8/15/2023,5244.21,credit,Income
+218,8/15/2023,217.5,credit,Income
+219,8/15/2023,450,credit,Transfer
+220,8/15/2023,240,debit,Transfer
+221,8/14/2023,500,debit,Transfer
+222,8/14/2023,500,credit,Transfer
+223,8/14/2023,79,debit,Utilities
+224,8/11/2023,1.89,debit,Transfer
+225,8/11/2023,7.93,debit,Credit Card Payment
+226,8/11/2023,1309.41,debit,Credit Card Payment
+227,8/10/2023,746.39,debit,Credit Card Payment
+228,8/10/2023,305.96,debit,Credit Card Payment
+229,8/8/2023,1640,credit,Transfer
+230,8/8/2023,182.33,debit,Shopping
+231,8/7/2023,180,debit,Transfer
+232,8/7/2023,250,debit,Transfer
+233,8/7/2023,94,debit,Transfer
+234,8/7/2023,30,debit,Transfer
+235,8/7/2023,300,debit,Home Services
+236,8/7/2023,0.99,debit,Electronics & Software
+237,8/7/2023,206.03,debit,Shopping
+238,8/7/2023,50,debit,Entertainment
+239,8/7/2023,1590,debit,Transfer
+240,8/7/2023,2239.18,credit,Paycheck
+241,8/4/2023,60,credit,Transfer
+242,8/4/2023,60,debit,Transfer
+243,8/4/2023,1.89,debit,Transfer
+244,8/4/2023,645.59,debit,Mobile Phone
+245,8/4/2023,872.38,credit,Paycheck
+246,8/4/2023,60,debit,Transfer
+247,8/3/2023,200,debit,Transfer
+248,8/3/2023,200,credit,Transfer
+249,8/3/2023,2688.33,credit,Paycheck
+250,8/3/2023,200,debit,Transfer
+251,8/2/2023,44.99,debit,Transfer
+252,8/2/2023,278.4,debit,Credit Card Payment
+253,8/2/2023,732.1,debit,Credit Card Payment
+254,8/2/2023,115,debit,Transfer
+255,8/1/2023,4167.67,debit,Mortgage & Rent
+256,8/1/2023,200,credit,Transfer
+257,8/1/2023,200,debit,Transfer
+258,8/1/2023,200,debit,Transfer
+259,8/1/2023,200,credit,Loan Principal
+260,8/1/2023,3967.67,credit,Loan Payment
+261,7/31/2023,0.02,credit,Interest Income
+262,7/31/2023,1252.72,credit,Income
+263,7/31/2023,5177.63,credit,Income
+264,7/31/2023,53.97,debit,Credit Card Payment
+265,7/31/2023,537.14,debit,Credit Card Payment
+266,7/31/2023,3125.77,debit,Credit Card Payment
+267,7/31/2023,505.4,debit,Credit Card Payment
+268,7/31/2023,0.03,credit,Interest Income
+269,7/31/2023,0.01,credit,Interest Income
+270,7/31/2023,0.01,credit,Interest Income
+271,7/31/2023,0.08,credit,Interest Income
+272,7/31/2023,21.17,debit,Shopping
+273,7/31/2023,0.01,credit,Interest Income
+274,7/31/2023,5,debit,Bank Fee
+275,7/28/2023,100,credit,Transfer
+276,7/28/2023,500,credit,Transfer
+277,7/28/2023,130,debit,Transfer
+278,7/28/2023,100,debit,Transfer
+279,7/28/2023,1.89,debit,Transfer
+280,7/28/2023,21.69,debit,Food & Dining
+281,7/27/2023,225,debit,Transfer
+282,7/27/2023,343.42,debit,Credit Card Payment
+283,7/27/2023,56.96,debit,Transfer
+284,7/27/2023,7.04,debit,Transfer
+285,7/27/2023,138.18,debit,Transfer
+286,7/27/2023,10.63,debit,Restaurants
+287,7/27/2023,39.95,debit,Education
+288,7/26/2023,24.99,debit,Electronics & Software
+289,7/26/2023,11.54,debit,Shopping
+290,7/26/2023,14.99,debit,Transfer
+291,7/26/2023,14.99,debit,Transfer
+292,7/26/2023,0.15,credit,Interest Income
+293,7/26/2023,14.99,debit,Transfer
+294,7/26/2023,1539.85,debit,Credit Card Payment
+295,7/25/2023,29.95,debit,Shopping
+296,7/25/2023,4.99,debit,Entertainment
+297,7/25/2023,9.99,debit,Music
+298,7/24/2023,75,debit,Transfer
+299,7/24/2023,200,credit,Transfer
+300,7/24/2023,200,debit,Transfer
+301,7/24/2023,75,credit,Transfer
+302,7/24/2023,250,debit,Transfer
+303,7/24/2023,35.08,debit,Fast Food
+304,7/24/2023,8.47,debit,Shopping
+305,7/24/2023,4.99,debit,Entertainment
+306,7/24/2023,4.99,debit,Restaurants
+307,7/24/2023,4.99,debit,Entertainment
+308,7/24/2023,160,debit,Home Services
+309,7/24/2023,75,debit,Transfer
+310,7/24/2023,200,debit,Transfer
+311,7/21/2023,872.38,credit,Paycheck
+312,7/21/2023,180,debit,Transfer
+313,7/21/2023,1.89,debit,Transfer
+314,7/21/2023,250,debit,Transfer
+315,7/21/2023,29.99,debit,Entertainment
+316,7/21/2023,2069.52,credit,Paycheck
+317,7/21/2023,29.99,debit,Entertainment
+318,7/20/2023,3842.66,credit,Paycheck
+319,7/19/2023,1680.57,debit,Credit Card Payment
+320,7/19/2023,533.72,debit,Credit Card Payment
+321,7/18/2023,3243.86,debit,Credit Card Payment
+322,7/18/2023,30.99,debit,Transfer
+323,7/17/2023,784.04,debit,Credit Card Payment
+324,7/17/2023,15.02,debit,Shopping
+325,7/17/2023,20,debit,Transfer
+326,7/17/2023,9.99,debit,Television
+327,7/17/2023,225,debit,Transfer
+328,7/17/2023,250,debit,Transfer
+329,7/14/2023,377.94,debit,Transfer
+330,7/14/2023,12000,credit,Income
+331,7/14/2023,5177.63,credit,Income
+332,7/14/2023,1.89,debit,Transfer
+333,7/14/2023,200,debit,Credit Card Payment
+334,7/14/2023,200,debit,Credit Card Payment
+335,7/12/2023,1644.75,debit,Credit Card Payment
+336,7/11/2023,1589.99,debit,Credit Card Payment
+337,7/11/2023,405.91,debit,Credit Card Payment
+338,7/11/2023,395,debit,Transfer
+339,7/11/2023,105.99,debit,Shopping
+340,7/10/2023,250,debit,Transfer
+341,7/10/2023,25,debit,Entertainment
+342,7/10/2023,11.06,debit,Food & Dining
+343,7/10/2023,11.82,debit,Restaurants
+344,7/10/2023,250,debit,Home Services
+345,7/10/2023,200,debit,Transfer
+346,7/10/2023,200,debit,Transfer
+347,7/10/2023,200,credit,Transfer
+348,7/7/2023,1.89,debit,Transfer
+349,7/7/2023,18.79,debit,Transfer
+350,7/7/2023,2239.2,credit,Paycheck
+351,7/7/2023,872.39,credit,Paycheck
+352,7/6/2023,110,debit,Transfer
+353,7/6/2023,300,debit,Transfer
+354,7/6/2023,110,debit,Transfer
+355,7/6/2023,300,credit,Transfer
+356,7/6/2023,110,credit,Transfer
+357,7/6/2023,110,credit,Transfer
+358,7/6/2023,300,debit,Transfer
+359,7/6/2023,110,debit,Transfer
+360,7/6/2023,110,debit,Transfer
+361,7/6/2023,0.99,debit,Electronics & Software
+362,7/6/2023,3728.21,credit,Paycheck
+363,7/6/2023,23.88,debit,Business Services
+364,7/6/2023,634.45,debit,Credit Card Payment
+365,7/5/2023,423.28,debit,Mobile Phone
+366,7/5/2023,2384.55,debit,Credit Card Payment
+367,7/5/2023,549.49,debit,Credit Card Payment
+368,7/5/2023,30.99,debit,Transfer
+369,7/3/2023,130,debit,Transfer
+370,7/3/2023,500,credit,Rental Income
+371,7/3/2023,89.89,debit,Groceries
+372,7/3/2023,36.51,debit,Groceries
+373,7/3/2023,500,debit,Mortgage & Rent
+374,7/3/2023,1.89,debit,Transfer
+375,7/3/2023,475,debit,Transfer
+376,7/3/2023,4167.67,debit,Mortgage & Rent
+377,7/3/2023,130,debit,Transfer
+378,7/3/2023,130,credit,Transfer
+379,7/1/2023,3967.67,credit,Loan Payment
+380,7/1/2023,200,credit,Loan Principal
+381,6/30/2023,258,debit,Transfer
+382,6/30/2023,0.08,credit,Interest Income
+383,6/30/2023,0.01,credit,Interest Income
+384,6/30/2023,0.02,credit,Interest Income
+385,6/30/2023,0.01,credit,Interest Income
+386,6/30/2023,5,debit,Bank Fee
+387,6/30/2023,32.54,debit,Shopping
+388,6/30/2023,1683.18,credit,Income
+389,6/30/2023,5177.64,credit,Income
+390,6/29/2023,250,credit,Transfer
+391,6/29/2023,250,debit,Transfer
+392,6/29/2023,218.77,debit,Credit Card Payment
+393,6/29/2023,500,credit,Transfer
+394,6/29/2023,250,debit,Transfer
+395,6/28/2023,100,debit,Transfer
+396,6/28/2023,100,credit,Transfer
+397,6/28/2023,23.89,debit,Fast Food
+398,6/28/2023,27.8,debit,Fast Food
+399,6/28/2023,97.37,debit,Home Improvement
+400,6/28/2023,74.19,debit,Shopping
+401,6/27/2023,39.95,debit,Education
+402,6/27/2023,27.92,debit,Restaurants
+403,6/27/2023,15.27,debit,Food Delivery
+404,6/27/2023,23.42,debit,Fast Food
+405,6/26/2023,0.07,credit,Interest Income
+406,6/26/2023,1697.38,debit,Credit Card Payment
+407,6/26/2023,131,debit,Transfer
+408,6/26/2023,6.37,debit,Credit Card Payment
+409,6/26/2023,828.12,debit,Credit Card Payment
+410,6/26/2023,219.37,debit,Credit Card Payment
+411,6/26/2023,9.99,debit,Music
+412,6/26/2023,58.82,debit,Groceries
+413,6/26/2023,20,debit,Transfer
+414,6/26/2023,23.08,debit,Food Delivery
+415,6/26/2023,88.2,debit,Shopping
+416,6/25/2023,29.02,debit,Food & Dining
+417,6/25/2023,19.99,debit,Electronics & Software
+418,6/25/2023,35.78,debit,Fast Food
+419,6/25/2023,14.95,debit,Books
+420,6/25/2023,21.32,debit,Fast Food
+421,6/25/2023,219.37,credit,Credit Card Payment
+422,6/25/2023,6.37,credit,Credit Card Payment
+423,6/23/2023,34.03,debit,Fast Food
+424,6/23/2023,5,debit,Ride Share
+425,6/23/2023,150,debit,Transfer
+426,6/23/2023,270,credit,Transfer
+427,6/23/2023,270,debit,Transfer
+428,6/23/2023,150,credit,Transfer
+429,6/23/2023,26.99,debit,Transfer
+430,6/23/2023,26.99,debit,Transfer
+431,6/23/2023,26.99,debit,Transfer
+432,6/23/2023,1.89,debit,Transfer
+433,6/23/2023,270,debit,Transfer
+434,6/23/2023,150,debit,Transfer
+435,6/23/2023,872.38,credit,Paycheck
+436,6/23/2023,4.99,debit,Restaurants
+437,6/22/2023,2806.48,credit,Paycheck
+438,6/22/2023,24.99,debit,Electronics & Software
+439,6/22/2023,2239.2,credit,Paycheck
+440,6/22/2023,6.37,debit,Gas & Fuel
+441,6/21/2023,101.19,credit,Income
+442,6/21/2023,44.88,debit,Credit Card Payment
+443,6/21/2023,4190.42,debit,Credit Card Payment
+444,6/21/2023,15.89,debit,Ride Share
+445,6/20/2023,967.11,debit,Credit Card Payment
+446,6/20/2023,2165.91,debit,Credit Card Payment
+447,6/20/2023,250,debit,Transfer
+448,6/20/2023,14.99,debit,Transfer
+449,6/20/2023,14.99,debit,Transfer
+450,6/20/2023,34.99,debit,Entertainment
+451,6/20/2023,583,credit,Transfer
+452,6/20/2023,1722.41,debit,Credit Card Payment
+453,6/20/2023,23.17,debit,Entertainment
+454,6/20/2023,59.99,debit,Entertainment
+455,6/20/2023,9.47,debit,Groceries
+456,6/20/2023,15.96,debit,Food & Dining
+457,6/20/2023,44.88,credit,Credit Card Payment
+458,6/20/2023,4190.42,credit,Credit Card Payment
+459,6/20/2023,18.05,debit,Ride Share
+460,6/20/2023,76.07,debit,Fast Food
+461,6/20/2023,20.34,debit,Restaurants
+462,6/20/2023,49.99,debit,Gift
+463,6/19/2023,4.24,debit,Gym
+464,6/19/2023,10,debit,Restaurants
+465,6/19/2023,38.14,debit,Fast Food
+466,6/19/2023,71.02,debit,Fast Food
+467,6/19/2023,35,debit,Public Transportation
+468,6/18/2023,580.59,debit,Veterinary
+469,6/18/2023,17.25,debit,Restaurants
+470,6/18/2023,130,debit,Charity
+471,6/18/2023,23.02,debit,Groceries
+472,6/18/2023,371.03,debit,Ride Share
+473,6/18/2023,22.78,debit,Food Delivery
+474,6/16/2023,29.3,debit,Movies & DVDs
+475,6/16/2023,40,debit,Transfer
+476,6/16/2023,200,debit,Credit Card Payment
+477,6/16/2023,200,debit,Credit Card Payment
+478,6/16/2023,180,credit,Transfer
+479,6/16/2023,413.46,debit,Credit Card Payment
+480,6/16/2023,1.89,debit,Transfer
+481,6/16/2023,96.3,credit,Income
+482,6/15/2023,74.19,debit,Shopping
+483,6/15/2023,112.46,debit,Restaurants
+484,6/15/2023,12000,credit,Income
+485,6/15/2023,5173.45,credit,Income
+486,6/15/2023,180,debit,Transfer
+487,6/15/2023,250,debit,Transfer
+488,6/15/2023,16.02,debit,Shopping
+489,6/15/2023,23.42,debit,Shopping
+490,6/15/2023,467.11,credit,Transfer
+491,6/14/2023,4.04,debit,Gas & Fuel
+492,6/13/2023,323.25,debit,Home Improvement
+493,6/13/2023,50.69,debit,Service & Parts
+494,6/13/2023,100,debit,Service & Parts
+495,6/12/2023,32.78,debit,Food Delivery
+496,6/12/2023,32.81,debit,Restaurants
+497,6/12/2023,165,debit,Transfer
+498,6/12/2023,1.89,debit,Transfer
+499,6/12/2023,10.9,debit,Food & Dining
+500,6/12/2023,25,debit,Entertainment
+501,6/12/2023,91.19,debit,Gym
+502,6/11/2023,94.7,debit,Clothing
+503,6/11/2023,158.99,debit,Electronics & Software
+504,6/11/2023,63.54,debit,Groceries
+505,6/11/2023,13.13,debit,Ride Share
+506,6/11/2023,101,debit,Electronics & Software
+507,6/11/2023,9.99,debit,Food Delivery
+508,6/11/2023,38.72,debit,Restaurants
+509,6/11/2023,10.68,debit,Groceries
+510,6/11/2023,36.95,debit,Electronics & Software
+511,6/9/2023,102.99,credit,Income
+512,6/9/2023,29.12,debit,Transfer
+513,6/9/2023,872.39,credit,Paycheck
+514,6/9/2023,631.13,debit,Credit Card Payment
+515,6/9/2023,373.41,debit,Credit Card Payment
+516,6/9/2023,35,debit,Fees & Charges
+517,6/9/2023,116.59,debit,Shopping
+518,6/8/2023,9.32,debit,Food & Dining
+519,6/8/2023,169.59,debit,Shopping
+520,6/8/2023,40,debit,Transfer
+521,6/8/2023,300,debit,Transfer
+522,6/8/2023,90,debit,Transfer
+523,6/8/2023,90,debit,Home Services
+524,6/8/2023,40,debit,Transfer
+525,6/8/2023,40,credit,Transfer
+526,6/8/2023,300,credit,Transfer
+527,6/8/2023,300,debit,Transfer
+528,6/8/2023,90,credit,Transfer
+529,6/8/2023,3613.76,credit,Paycheck
+530,6/8/2023,38.1,credit,Home Improvement
+531,6/8/2023,105.29,debit,Home Improvement
+532,6/8/2023,64.37,debit,Home Improvement
+533,6/7/2023,2408.86,credit,Paycheck
+534,6/7/2023,41.53,debit,Fast Food
+535,6/7/2023,120,debit,Food Delivery
+536,6/7/2023,90.91,debit,Shopping
+537,6/6/2023,21.05,debit,Shopping
+538,6/6/2023,40.81,debit,Food Delivery
+539,6/6/2023,143.8,debit,Shopping
+540,6/6/2023,6.31,debit,Groceries
+541,6/6/2023,124.02,debit,Clothing
+542,6/6/2023,550.52,debit,Mobile Phone
+543,6/5/2023,25,debit,Entertainment
+544,6/5/2023,0.99,debit,Electronics & Software
+545,6/5/2023,284.99,debit,Hobbies
+546,6/5/2023,2234.23,debit,Credit Card Payment
+547,6/5/2023,250,debit,Transfer
+548,6/5/2023,94,debit,Transfer
+549,6/5/2023,4324.56,debit,Credit Card Payment
+550,6/5/2023,180,debit,Transfer
+551,6/5/2023,26.96,debit,Shopping
+552,6/5/2023,9.95,debit,Sporting Goods
+553,6/5/2023,25,debit,Tuition
+554,6/5/2023,95.36,debit,Ride Share
+555,6/5/2023,16.97,debit,Restaurants
+556,6/5/2023,35,debit,Public Transportation
+557,6/5/2023,52.55,debit,Ride Share
+558,6/5/2023,22,debit,Sporting Goods
+559,6/4/2023,88.95,debit,Food Delivery
+560,6/4/2023,495,debit,Alcohol & Bars
+561,6/4/2023,55.12,debit,Alcohol & Bars
+562,6/4/2023,2234.23,credit,Credit Card Payment
+563,6/2/2023,1.89,debit,Transfer
+564,6/2/2023,1187.51,debit,Credit Card Payment
+565,6/2/2023,500,debit,Transfer
+566,6/2/2023,222.28,debit,Credit Card Payment
+567,6/2/2023,500,credit,Transfer
+568,6/2/2023,226.92,debit,Groceries
+569,6/2/2023,59.98,debit,Restaurants
+570,6/2/2023,37.81,debit,Kids Activities
+571,6/2/2023,35,debit,Fees & Charges
+572,6/2/2023,76.32,debit,Alcohol & Bars
+573,6/1/2023,95,debit,Service Fee
+574,6/1/2023,127.15,debit,Kids Activities
+575,6/1/2023,134.45,debit,Shopping
+576,6/1/2023,4167.67,debit,Mortgage & Rent
+577,6/1/2023,44.99,debit,Transfer
+578,6/1/2023,972,credit,Income
+579,6/1/2023,150,debit,Transfer
+580,6/1/2023,30,credit,Transfer
+581,6/1/2023,120,credit,Transfer
+582,6/1/2023,300,debit,Home Services
+583,6/1/2023,150,credit,Transfer
+584,6/1/2023,861.6,debit,Credit Card Payment
+585,6/1/2023,120,debit,Transfer
+586,6/1/2023,200,credit,Loan Principal
+587,6/1/2023,3967.67,credit,Loan Payment
+588,5/31/2023,153.39,debit,Clothing
+589,5/31/2023,173,debit,Food Delivery
+590,5/31/2023,75.06,debit,Clothing
+591,5/31/2023,5026.19,credit,Income
+592,5/31/2023,5375.24,credit,Income
+593,5/31/2023,0.01,credit,Interest Income
+594,5/31/2023,102.99,debit,Gym
+595,5/31/2023,10,debit,Entertainment
+596,5/31/2023,0.01,credit,Interest Income
+597,5/31/2023,0.02,credit,Interest Income
+598,5/31/2023,0.01,credit,Interest Income
+599,5/31/2023,161,credit,Transfer
+600,5/31/2023,0.01,credit,Interest Income
+601,5/31/2023,0.09,credit,Interest Income
+602,5/31/2023,0.01,credit,Interest Income
+603,5/31/2023,5,debit,Bank Fee
+604,5/30/2023,100,credit,Transfer
+605,5/30/2023,500,debit,Transfer
+606,5/30/2023,500,credit,Transfer
+607,5/30/2023,91.8,credit,Income
+608,5/30/2023,229,debit,Hobbies
+609,5/30/2023,4.32,debit,Groceries
+610,5/30/2023,21.08,debit,Restaurants
+611,5/30/2023,25,debit,Entertainment
+612,5/30/2023,39.95,debit,Education
+613,5/30/2023,35,credit,Transfer
+614,5/30/2023,39.68,debit,Restaurants
+615,5/30/2023,30.19,debit,Shopping
+616,5/30/2023,65,debit,Transfer
+617,5/30/2023,500,credit,Transfer
+618,5/30/2023,100,debit,Transfer
+619,5/30/2023,65,debit,Transfer
+620,5/30/2023,65,credit,Transfer
+621,5/30/2023,117.85,debit,Shopping
+622,5/30/2023,74.2,debit,Shopping
+623,5/29/2023,35,debit,Public Transportation
+624,5/28/2023,100,debit,Travel
+625,5/28/2023,67.15,debit,Fast Food
+626,5/28/2023,120,debit,Food Delivery
+627,5/26/2023,180,debit,Transfer
+628,5/26/2023,1.89,debit,Transfer
+629,5/26/2023,250,debit,Transfer
+630,5/26/2023,99,debit,Entertainment
+631,5/26/2023,74.39,debit,Home Improvement
+632,5/26/2023,872.37,credit,Paycheck
+633,5/26/2023,312.9,debit,Air Travel
+634,5/26/2023,35,debit,Fees & Charges
+635,5/25/2023,30,debit,Transfer
+636,5/25/2023,30,credit,Transfer
+637,5/25/2023,30,debit,Transfer
+638,5/25/2023,9.99,debit,Music
+639,5/25/2023,94,debit,Transfer
+640,5/25/2023,250,debit,Transfer
+641,5/25/2023,12164.79,debit,Credit Card Payment
+642,5/25/2023,212.91,debit,Credit Card Payment
+643,5/25/2023,180,debit,Transfer
+644,5/25/2023,2688.32,credit,Paycheck
+645,5/25/2023,19.99,debit,Electronics & Software
+646,5/24/2023,130,debit,Doctor
+647,5/24/2023,68.14,debit,Restaurants
+648,5/24/2023,1800,credit,Transfer
+649,5/24/2023,14.95,debit,Books
+650,5/23/2023,140,debit,Entertainment
+651,5/23/2023,4.99,debit,Restaurants
+652,5/23/2023,57.6,debit,Credit Card Payment
+653,5/23/2023,14313.5,debit,Auto Payment
+654,5/23/2023,225,debit,Transfer
+655,5/23/2023,560.64,debit,Credit Card Payment
+656,5/23/2023,0.14,credit,Interest Income
+657,5/23/2023,225,debit,Transfer
+658,5/23/2023,7.93,debit,Gas & Fuel
+659,5/23/2023,38.21,debit,Fast Food
+660,5/22/2023,3.79,debit,Transfer
+661,5/22/2023,46.89,debit,Transfer
+662,5/22/2023,11.29,debit,Transfer
+663,5/22/2023,250,debit,Transfer
+664,5/22/2023,131,debit,Transfer
+665,5/22/2023,1526.64,debit,Credit Card Payment
+666,5/22/2023,2239.21,credit,Paycheck
+667,5/22/2023,5.69,debit,Advertising
+668,5/22/2023,11.81,debit,Food & Dining
+669,5/22/2023,24.99,debit,Electronics & Software
+670,5/22/2023,10,debit,Entertainment
+671,5/22/2023,11.43,debit,Food & Dining
+672,5/22/2023,68.87,debit,Kids Activities
+673,5/22/2023,560.64,credit,Credit Card Payment
+674,5/22/2023,36.03,debit,Food Delivery
+675,5/22/2023,57.6,credit,Credit Card Payment
+676,5/21/2023,115,debit,Food Delivery
+677,5/21/2023,26.49,debit,Shopping
+678,5/21/2023,53.96,debit,Pets
+679,5/19/2023,1.89,debit,Transfer
+680,5/19/2023,63.59,debit,Shopping
+681,5/19/2023,130,debit,Doctor
+682,5/18/2023,30.48,debit,Fast Food
+683,5/18/2023,40,debit,Transfer
+684,5/18/2023,139,debit,Shopping
+685,5/17/2023,18.79,debit,Transfer
+686,5/17/2023,75.05,debit,Clothing
+687,5/17/2023,153.4,debit,Clothing
+688,5/17/2023,14.46,debit,Ride Share
+689,5/17/2023,18.85,debit,Ride Share
+690,5/16/2023,200,debit,Credit Card Payment
+691,5/16/2023,200,debit,Credit Card Payment
+692,5/16/2023,13.13,debit,Credit Card Payment
+693,5/16/2023,4080.81,debit,Auto Payment
+694,5/16/2023,760.03,debit,Credit Card Payment
+695,5/16/2023,649.24,debit,Credit Card Payment
+696,5/16/2023,3.61,debit,Fast Food
+697,5/16/2023,6.02,debit,Food & Dining
+698,5/16/2023,5.91,debit,Food & Dining
+699,5/16/2023,8.75,debit,Restaurants
+700,5/16/2023,31.8,debit,Fast Food
+701,5/16/2023,37.8,debit,Fast Food
+702,5/15/2023,96.3,debit,Amusement
+703,5/15/2023,34.89,debit,Shopping
+704,5/15/2023,9.89,debit,Fast Food
+705,5/15/2023,5007.62,credit,Paycheck
+706,5/15/2023,2500.41,debit,Credit Card Payment
+707,5/15/2023,18.46,debit,Credit Card Payment
+708,5/15/2023,13.13,credit,Credit Card Payment
+709,5/15/2023,36.66,debit,Fast Food
+710,5/15/2023,760.03,credit,Credit Card Payment
+711,5/14/2023,547.9,debit,Air Travel
+712,5/14/2023,13.13,debit,Restaurants
+713,5/12/2023,1.89,debit,Transfer
+714,5/12/2023,12000,credit,Income
+715,5/12/2023,500,credit,Rental Income
+716,5/12/2023,20.99,debit,Electronics & Software
+717,5/12/2023,16.06,debit,Advertising
+718,5/12/2023,500,debit,Mortgage & Rent
+719,5/11/2023,63.55,debit,Groceries
+720,5/11/2023,9.99,debit,Food Delivery
+721,5/11/2023,50.69,debit,Service & Parts
+722,5/11/2023,4185.99,credit,Paycheck
+723,5/11/2023,1000,debit,Buy
+724,5/10/2023,40.94,debit,Restaurants
+725,5/10/2023,12499,credit,Income
+726,5/10/2023,69.35,credit,Transfer
+727,5/10/2023,400.23,debit,Credit Card Payment
+728,5/9/2023,20.69,debit,Shopping
+729,5/9/2023,100,debit,Transfer
+730,5/9/2023,7.93,debit,Credit Card Payment
+731,5/9/2023,10000,debit,Auto Payment
+732,5/9/2023,94,debit,Transfer
+733,5/9/2023,1289.95,debit,Credit Card Payment
+734,5/9/2023,538,debit,Transfer
+735,5/9/2023,40.17,credit,Transfer
+736,5/9/2023,100,debit,Transfer
+737,5/9/2023,100,credit,Transfer
+738,5/8/2023,1840,credit,Transfer
+739,5/8/2023,100,debit,Entertainment
+740,5/8/2023,8.53,debit,Food & Dining
+741,5/8/2023,250,debit,Transfer
+742,5/8/2023,1389.28,debit,Credit Card Payment
+743,5/8/2023,588.87,debit,Credit Card Payment
+744,5/8/2023,1289.95,credit,Credit Card Payment
+745,5/8/2023,26.27,debit,Fast Food
+746,5/8/2023,7.93,credit,Credit Card Payment
+747,5/7/2023,82,debit,Food Delivery
+748,5/5/2023,0.99,debit,Electronics & Software
+749,5/5/2023,2069.51,credit,Paycheck
+750,5/5/2023,1.89,debit,Transfer
+751,5/5/2023,16.97,debit,Restaurants
+752,5/5/2023,36.78,debit,Restaurants
+753,5/5/2023,45.88,debit,Restaurants
+754,5/5/2023,9.95,debit,Sporting Goods
+755,5/4/2023,398.05,debit,Mobile Phone
+756,5/3/2023,75.05,debit,Clothing
+757,5/3/2023,145.7,debit,Home Improvement
+758,5/3/2023,153.4,debit,Clothing
+759,5/3/2023,253,debit,Credit Card Payment
+760,5/3/2023,35,debit,Transfer
+761,5/3/2023,135,debit,Transfer
+762,5/3/2023,130,debit,Transfer
+763,5/3/2023,135,credit,Transfer
+764,5/2/2023,26.27,debit,Fast Food
+765,5/2/2023,342.55,debit,Transfer
+766,5/2/2023,59.99,debit,Entertainment
+767,5/2/2023,170,credit,Income
+768,5/2/2023,5481.92,credit,Property Tax
+769,5/1/2023,2.51,debit,Gas & Fuel
+770,5/1/2023,4167.67,debit,Mortgage & Rent
+771,5/1/2023,44.99,debit,Transfer
+772,5/1/2023,500,credit,Transfer
+773,5/1/2023,200,credit,Loan Principal
+774,5/1/2023,3967.67,credit,Loan Payment
+775,4/30/2023,86,debit,Food Delivery
+776,4/30/2023,76.66,debit,Personal Care
+777,4/30/2023,7.93,debit,Gas & Fuel
+778,4/28/2023,29.25,debit,Fast Food
+779,4/28/2023,100.18,debit,Pharmacy
+780,4/28/2023,0.08,credit,Interest Income
+781,4/28/2023,0.03,credit,Interest Income
+782,4/28/2023,100,debit,Transfer
+783,4/28/2023,0.02,credit,Interest Income
+784,4/28/2023,1.89,debit,Transfer
+785,4/28/2023,1720.57,credit,Paycheck
+786,4/28/2023,5007.62,credit,Paycheck
+787,4/28/2023,0.01,credit,Interest Income
+788,4/28/2023,5,debit,Bank Fee
+789,4/28/2023,0.01,credit,Interest Income
+790,4/28/2023,0.01,credit,Interest Income
+791,4/28/2023,100,credit,Transfer
+792,4/28/2023,0.02,credit,Interest Income
+793,4/27/2023,830.88,debit,Credit Card Payment
+794,4/27/2023,4643.77,credit,Paycheck
+795,4/27/2023,176.93,debit,Credit Card Payment
+796,4/27/2023,39.95,debit,Education
+797,4/27/2023,12.49,debit,Electronics & Software
+798,4/27/2023,309,debit,Home Improvement
+799,4/26/2023,59.99,debit,Credit Card Payment
+800,4/26/2023,1068.33,debit,Credit Card Payment
+801,4/26/2023,99,debit,Entertainment
+802,4/26/2023,29.95,debit,Shopping
+803,4/26/2023,300,debit,Transfer
+804,4/26/2023,98.61,debit,Gas & Fuel
+805,4/26/2023,38.13,credit,Credit Card Payment
+806,4/26/2023,830.88,credit,Credit Card Payment
+807,4/26/2023,36.38,debit,Fast Food
+808,4/25/2023,27.18,debit,Pharmacy
+809,4/25/2023,108.1,debit,Clothing
+810,4/25/2023,38,debit,Transfer
+811,4/25/2023,0.31,credit,Interest Income
+812,4/25/2023,1740,debit,Transfer
+813,4/25/2023,9.99,debit,Music
+814,4/24/2023,289.02,credit,Transfer
+815,4/24/2023,55,debit,Transfer
+816,4/24/2023,1.91,debit,Gas & Fuel
+817,4/24/2023,915.25,debit,Credit Card Payment
+818,4/24/2023,25,debit,Entertainment
+819,4/24/2023,4.99,debit,Restaurants
+820,4/24/2023,47.91,debit,Credit Card Payment
+821,4/24/2023,220.21,debit,Credit Card Payment
+822,4/24/2023,1800,credit,Transfer
+823,4/24/2023,180,debit,Transfer
+824,4/24/2023,55,debit,Transfer
+825,4/24/2023,400,debit,Transfer
+826,4/24/2023,680.08,credit,Transfer
+827,4/24/2023,55,credit,Transfer
+828,4/24/2023,114.46,debit,Gifts & Donations
+829,4/24/2023,289.02,debit,Clothing
+830,4/24/2023,14.99,debit,Electronics & Software
+831,4/24/2023,14.95,debit,Books
+832,4/24/2023,31.92,debit,Fast Food
+833,4/23/2023,83.25,debit,Food Delivery
+834,4/23/2023,54.44,debit,Food Delivery
+835,4/23/2023,38.13,debit,Clothing
+836,4/23/2023,54.44,debit,Food Delivery
+837,4/21/2023,35,credit,Transfer
+838,4/21/2023,35,debit,Transfer
+839,4/21/2023,2069.52,credit,Paycheck
+840,4/21/2023,10000,debit,Auto Payment
+841,4/21/2023,2055.41,debit,Credit Card Payment
+842,4/21/2023,1.89,debit,Transfer
+843,4/21/2023,164.72,credit,Income
+844,4/21/2023,35,debit,Transfer
+845,4/21/2023,45,debit,Transfer
+846,4/20/2023,1347.26,debit,Credit Card Payment
+847,4/20/2023,30,debit,Business Services
+848,4/20/2023,10,debit,Business Services
+849,4/20/2023,20,debit,Business Services
+850,4/20/2023,5,debit,Business Services
+851,4/20/2023,10,debit,Business Services
+852,4/20/2023,2055.41,credit,Credit Card Payment
+853,4/19/2023,25,credit,Transfer
+854,4/19/2023,25,debit,Transfer
+855,4/19/2023,36,credit,State Tax
+856,4/19/2023,25,debit,Transfer
+857,4/19/2023,40,debit,Business Services
+858,4/19/2023,40,debit,Food Delivery
+859,4/19/2023,35,debit,Public Transportation
+860,4/18/2023,75.06,debit,Clothing
+861,4/18/2023,33.77,debit,Restaurants
+862,4/18/2023,45.78,debit,Shopping
+863,4/18/2023,229.5,debit,Clothing
+864,4/18/2023,153.4,debit,Clothing
+865,4/17/2023,26,debit,Transfer
+866,4/17/2023,280.56,debit,Credit Card Payment
+867,4/17/2023,59,debit,Food Delivery
+868,4/17/2023,177.7,debit,Ride Share
+869,4/17/2023,1.89,debit,Transfer
+870,4/17/2023,250,debit,Transfer
+871,4/17/2023,100,debit,Restaurants
+872,4/17/2023,9.27,debit,Shopping
+873,4/16/2023,149,debit,Air Travel
+874,4/16/2023,54.85,debit,Gas & Fuel
+875,4/16/2023,32.33,debit,Ride Share
+876,4/16/2023,287,debit,Air Travel
+877,4/16/2023,177.45,debit,Ride Share
+878,4/16/2023,107,debit,Food Delivery
+879,4/16/2023,35.09,debit,Ride Share
+880,4/14/2023,12000,credit,Income
+881,4/14/2023,225,debit,Transfer
+882,4/14/2023,5007.61,credit,Paycheck
+883,4/14/2023,15.85,debit,Shopping
+884,4/14/2023,200,debit,Credit Card Payment
+885,4/14/2023,240,debit,Home Services
+886,4/14/2023,200,debit,Credit Card Payment
+887,4/14/2023,835.29,credit,Paycheck
+888,4/14/2023,10.09,debit,Shopping
+889,4/13/2023,158.3,debit,Credit Card Payment
+890,4/13/2023,4071.55,credit,Paycheck
+891,4/13/2023,74.4,debit,Credit Card Payment
+892,4/13/2023,16.42,debit,Shopping
+893,4/13/2023,281.1,debit,Shopping
+894,4/13/2023,12.1,credit,Pharmacy
+895,4/13/2023,33.7,debit,Shopping
+896,4/12/2023,20,debit,Business Services
+897,4/12/2023,20,debit,Business Services
+898,4/12/2023,5,debit,Business Services
+899,4/12/2023,125,credit,Transfer
+900,4/12/2023,74.4,credit,Credit Card Payment
+901,4/12/2023,158.3,credit,Credit Card Payment
+902,4/12/2023,50.69,debit,Service & Parts
+903,4/11/2023,250,debit,Transfer
+904,4/11/2023,60,debit,Transfer
+905,4/11/2023,500,debit,Transfer
+906,4/11/2023,250,credit,Transfer
+907,4/11/2023,250,debit,Transfer
+908,4/11/2023,500,credit,Transfer
+909,4/11/2023,20000,debit,Auto Payment
+910,4/11/2023,3139.22,debit,Credit Card Payment
+911,4/11/2023,10000,debit,Financial
+912,4/11/2023,43.92,debit,Credit Card Payment
+913,4/11/2023,422.49,debit,Credit Card Payment
+914,4/11/2023,7.7,debit,Restaurants
+915,4/11/2023,55.27,debit,Restaurants
+916,4/11/2023,63.25,debit,Restaurants
+917,4/11/2023,9.99,debit,Food Delivery
+918,4/11/2023,74.4,debit,Electronics & Software
+919,4/10/2023,250,debit,Transfer
+920,4/10/2023,621.49,debit,Credit Card Payment
+921,4/10/2023,18528.84,debit,Credit Card Payment
+922,4/10/2023,565,credit,Transfer
+923,4/10/2023,565,debit,Transfer
+924,4/10/2023,3.99,debit,Entertainment
+925,4/10/2023,30,debit,Business Services
+926,4/10/2023,28.24,debit,Shopping
+927,4/10/2023,5,debit,Business Services
+928,4/10/2023,15,debit,Business Services
+929,4/10/2023,25,debit,Entertainment
+930,4/10/2023,50,debit,Business Services
+931,4/10/2023,565,debit,Transfer
+932,4/10/2023,3139.22,credit,Credit Card Payment
+933,4/10/2023,22.09,debit,Food Delivery
+934,4/10/2023,43.92,credit,Credit Card Payment
+935,4/9/2023,0.05,debit,Pharmacy
+936,4/9/2023,80.11,debit,Pharmacy
+937,4/9/2023,25.51,debit,Restaurants
+938,4/7/2023,15.89,debit,Shopping
+939,4/7/2023,5,debit,Entertainment
+940,4/7/2023,2408.86,credit,Paycheck
+941,4/7/2023,1.89,debit,Transfer
+942,4/7/2023,2.11,debit,Groceries
+943,4/7/2023,158.84,debit,Hair
+944,4/7/2023,159.98,debit,Shopping
+945,4/7/2023,100,debit,Travel
+946,4/6/2023,261,debit,Fees & Charges
+947,4/5/2023,1000,credit,Transfer
+948,4/5/2023,0.99,debit,Electronics & Software
+949,4/5/2023,50.41,debit,Shopping
+950,4/5/2023,9.95,debit,Sporting Goods
+951,4/5/2023,16.97,debit,Restaurants
+952,4/4/2023,300,debit,Transfer
+953,4/4/2023,175,credit,Transfer
+954,4/4/2023,140,credit,Transfer
+955,4/4/2023,140,debit,Transfer
+956,4/4/2023,398.48,debit,Mobile Phone
+957,4/4/2023,175,debit,Transfer
+958,4/4/2023,3500,debit,Transfer
+959,4/4/2023,606.37,debit,Air Travel
+960,4/4/2023,29,debit,Air Travel
+961,4/4/2023,35,debit,Air Travel
+962,4/3/2023,678,debit,Transfer
+963,4/3/2023,39.99,debit,Credit Card Payment
+964,4/3/2023,2000,credit,Transfer
+965,4/3/2023,2000,debit,Transfer
+966,4/3/2023,500,credit,Transfer
+967,4/3/2023,4167.67,debit,Mortgage & Rent
+968,4/3/2023,2000,credit,Transfer
+969,4/3/2023,21.99,debit,Electronics & Software
+970,4/3/2023,38.11,debit,Restaurants
+971,4/3/2023,5.23,debit,Groceries
+972,4/3/2023,675,debit,Transfer
+973,4/3/2023,678,credit,Transfer
+974,4/2/2023,43.92,debit,Entertainment
+975,4/2/2023,23.18,debit,Entertainment
+976,4/2/2023,20.47,debit,Fast Food
+977,4/1/2023,200,credit,Loan Principal
+978,4/1/2023,3967.67,credit,Loan Payment
+979,3/31/2023,66.99,debit,Entertainment
+980,3/31/2023,325.52,credit,State Tax
+981,3/31/2023,5,debit,Bank Fee
+982,3/31/2023,0.02,credit,Interest Income
+983,3/31/2023,0.03,credit,Interest Income
+984,3/31/2023,835.29,credit,Paycheck
+985,3/31/2023,0.08,credit,Interest Income
+986,3/31/2023,14.99,debit,Transfer
+987,3/31/2023,14.99,debit,Transfer
+988,3/31/2023,14.99,debit,Transfer
+989,3/31/2023,5007.63,credit,Paycheck
+990,3/31/2023,1.89,debit,Transfer
+991,3/31/2023,1113.37,credit,Paycheck
+992,3/31/2023,0.03,credit,Interest Income
+993,3/31/2023,0.01,credit,Interest Income
+994,3/31/2023,0.02,credit,Interest Income
+995,3/31/2023,0.01,credit,Interest Income
+996,3/31/2023,35,debit,Fees & Charges
+997,3/30/2023,3572.68,credit,Paycheck
+998,3/30/2023,2111,credit,Loan Payment
+999,3/29/2023,1103,debit,Home Insurance
+1000,3/29/2023,118,debit,Food Delivery
+1001,3/28/2023,100,credit,Transfer
+1002,3/28/2023,95.39,debit,Shopping
+1003,3/28/2023,100,debit,Transfer
+1004,3/28/2023,57.07,debit,Fast Food
+1005,3/27/2023,14.99,debit,Transfer
+1006,3/27/2023,14.99,debit,Transfer
+1007,3/27/2023,3500,debit,Transfer
+1008,3/27/2023,14.99,debit,Transfer
+1009,3/27/2023,1800,credit,Transfer
+1010,3/27/2023,1233.39,debit,Credit Card Payment
+1011,3/27/2023,250,debit,Transfer
+1012,3/27/2023,14.99,debit,Transfer
+1013,3/27/2023,14.99,debit,Transfer
+1014,3/27/2023,784.62,debit,Credit Card Payment
+1015,3/27/2023,39.95,debit,Education
+1016,3/27/2023,15.45,debit,Food & Dining
+1017,3/27/2023,5,debit,Business Services
+1018,3/27/2023,99,debit,Entertainment
+1019,3/27/2023,9.99,debit,Music
+1020,3/27/2023,27.99,debit,Entertainment
+1021,3/27/2023,201.08,debit,Transfer
+1022,3/27/2023,246.86,debit,Credit Card Payment
+1023,3/27/2023,33.85,debit,Fast Food
+1024,3/26/2023,100,debit,Food Delivery
+1025,3/26/2023,44.52,debit,Entertainment
+1026,3/26/2023,16.46,debit,Fast Food
+1027,3/26/2023,171.11,debit,Ride Share
+1028,3/26/2023,162.73,debit,Ride Share
+1029,3/26/2023,14.99,debit,Electronics & Software
+1030,3/24/2023,14.99,debit,Transfer
+1031,3/24/2023,14.99,debit,Transfer
+1032,3/24/2023,14.99,debit,Transfer
+1033,3/24/2023,14.99,debit,Transfer
+1034,3/24/2023,1.89,debit,Transfer
+1035,3/24/2023,14.99,debit,Transfer
+1036,3/24/2023,14.99,debit,Transfer
+1037,3/24/2023,824.79,debit,Credit Card Payment
+1038,3/24/2023,24.99,debit,Electronics & Software
+1039,3/24/2023,14.95,debit,Books
+1040,3/24/2023,1233.39,credit,Credit Card Payment
+1041,3/23/2023,0.34,credit,Interest Income
+1042,3/23/2023,6.05,debit,Entertainment
+1043,3/23/2023,4.99,debit,Restaurants
+1044,3/23/2023,50,debit,Transfer
+1045,3/23/2023,183.3,debit,Shopping
+1046,3/22/2023,2239.2,credit,Paycheck
+1047,3/21/2023,250,credit,Transfer
+1048,3/21/2023,27.68,debit,Food & Dining
+1049,3/21/2023,11.89,debit,Entertainment
+1050,3/21/2023,18.8,debit,Food & Dining
+1051,3/21/2023,58.31,debit,Kids
+1052,3/21/2023,28.75,debit,Fast Food
+1053,3/20/2023,260.21,debit,Clothing
+1054,3/20/2023,23.54,debit,Restaurants
+1055,3/20/2023,51.46,debit,Gas & Fuel
+1056,3/20/2023,473.14,debit,Utilities
+1057,3/20/2023,250,debit,Transfer
+1058,3/20/2023,232.22,debit,Credit Card Payment
+1059,3/20/2023,10,debit,Entertainment
+1060,3/20/2023,33.99,debit,Entertainment
+1061,3/20/2023,25,debit,Entertainment
+1062,3/20/2023,45.5,credit,Transfer
+1063,3/19/2023,86,debit,Food Delivery
+1064,3/19/2023,21.62,debit,Fast Food
+1065,3/19/2023,12.06,debit,Fast Food
+1066,3/19/2023,35,debit,Fees & Charges
+1067,3/17/2023,8.46,debit,Shopping
+1068,3/17/2023,220,debit,Transfer
+1069,3/17/2023,45,debit,Transfer
+1070,3/17/2023,835.28,credit,Paycheck
+1071,3/17/2023,1.89,debit,Transfer
+1072,3/17/2023,221.26,debit,Credit Card Payment
+1073,3/17/2023,250,debit,Transfer
+1074,3/17/2023,220,debit,Home Services
+1075,3/17/2023,220,credit,Transfer
+1076,3/17/2023,232.22,credit,Credit Card Payment
+1077,3/16/2023,9.99,debit,Television
+1078,3/16/2023,20,debit,Transfer
+1079,3/16/2023,200,debit,Credit Card Payment
+1080,3/16/2023,200,debit,Credit Card Payment
+1081,3/16/2023,3233.75,credit,Paycheck
+1082,3/16/2023,0.18,debit,Fast Food
+1083,3/15/2023,12000,credit,Income
+1084,3/15/2023,5007.62,credit,Paycheck
+1085,3/15/2023,2.31,debit,Shopping
+1086,3/14/2023,67.29,debit,Fast Food
+1087,3/14/2023,385,debit,Transfer
+1088,3/14/2023,135,debit,Transfer
+1089,3/14/2023,385,credit,Transfer
+1090,3/14/2023,135,credit,Transfer
+1091,3/14/2023,5745.36,debit,Credit Card Payment
+1092,3/14/2023,67.2,debit,Credit Card Payment
+1093,3/14/2023,81.55,debit,Credit Card Payment
+1094,3/14/2023,385,debit,Transfer
+1095,3/14/2023,135,debit,Transfer
+1096,3/13/2023,164.75,debit,Uncategorized
+1097,3/13/2023,5745.36,credit,Credit Card Payment
+1098,3/13/2023,67.2,credit,Credit Card Payment
+1099,3/13/2023,31.94,debit,Movies & DVDs
+1100,3/13/2023,5.65,debit,Gas & Fuel
+1101,3/13/2023,496.37,debit,Credit Card Payment
+1102,3/13/2023,411.13,debit,Credit Card Payment
+1103,3/13/2023,495,debit,Transfer
+1104,3/13/2023,440,debit,Transfer
+1105,3/13/2023,495,credit,Transfer
+1106,3/12/2023,67.2,debit,Electronics & Software
+1107,3/12/2023,82.62,debit,Ride Share
+1108,3/12/2023,9.99,debit,Food Delivery
+1109,3/12/2023,72,debit,Food Delivery
+1110,3/12/2023,163.08,debit,Service & Parts
+1111,3/12/2023,50.69,debit,Service & Parts
+1112,3/12/2023,19.09,debit,Fast Food
+1113,3/12/2023,41.5,debit,Fast Food
+1114,3/10/2023,14.31,debit,Restaurants
